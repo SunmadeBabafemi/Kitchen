@@ -1,0 +1,51 @@
+[
+    {
+        "picture": "picture1",
+        "name":"jollof rice and beef",
+        "price": 1500,
+        "quantity_available": 12,
+        "added_by":"maria1@admin.com"
+    },
+    {
+        "picture": "picture2",
+        "name":"chicken and chips",
+        "price": 2400,
+        "quantity_available": 10,
+        "added_by":"elijahmaria04@gmail.com"
+    },
+    {
+        "picture": "picture3",
+        "name":"fried rice and chicken",
+        "price": 1350,
+        "quantity_available": 8,
+        "added_by":"maria1@admin.com"
+    },
+    {
+        "picture": "picture7",
+        "name":"ofada rice and ayamase with grilled fish",
+        "price": 3000,
+        "quantity_available": 20,
+        "added_by":"elijahmaria04@gmail.com"
+    },
+    {
+        "picture": "picture4",
+        "name":"yam and egg",
+        "price": 1000,
+        "quantity_available": 5,
+        "added_by":"elijahmaria04@gmail.com"
+    },
+    {
+        "picture": "picture5",
+        "name":"Bread and Beans with Fried fish",
+        "price": 1700,
+        "quantity_available": 6,
+        "added_by":"elijahmaria04@gmail.com"
+    },
+    {
+        "picture": "picture6",
+        "name":"Spaghetti and sauce with turkey",
+        "price": 1300,
+        "quantity_available": 10,
+        "added_by":"maria1@admin.com"
+    }
+]
